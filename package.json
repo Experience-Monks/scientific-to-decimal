@@ -1,0 +1,30 @@
+{
+  "name": "scientific-to-decimal",
+  "version": "1.0.0",
+  "description": "A function which will convert scientific numbers to decimal strings",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "number,convert,scientific,exponential,decimal,notation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikkoh/scientific-to-decimal.git"
+  },
+  "homepage": "https://github.com/mikkoh/scientific-to-decimal",
+  "bugs": {
+    "url": "https://github.com/mikkoh/scientific-to-decimal/issues"
+  }
+}
