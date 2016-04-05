@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikkoh/scientific-to-decimal.git"
+    "url": "git://github.com/jam3/scientific-to-decimal.git"
   },
-  "homepage": "https://github.com/mikkoh/scientific-to-decimal",
+  "homepage": "https://github.com/jam3/scientific-to-decimal",
   "bugs": {
-    "url": "https://github.com/mikkoh/scientific-to-decimal/issues"
+    "url": "https://github.com/jam3/scientific-to-decimal/issues"
   }
 }
