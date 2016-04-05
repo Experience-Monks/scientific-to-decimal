@@ -1,6 +1,6 @@
 {
   "name": "scientific-to-decimal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function which will convert scientific numbers to decimal strings",
   "main": "index.js",
   "license": "MIT",
